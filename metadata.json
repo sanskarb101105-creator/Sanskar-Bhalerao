@@ -1,0 +1,6 @@
+{
+  "name": "SolarPulse – Solar Panel Performance Monitoring System",
+  "description": "Enterprise-grade solar energy monitoring platform demonstrating real-time photovoltaic telemetry, panel-level health, power generation analytics, and predictive alert management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
